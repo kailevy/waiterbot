@@ -1,0 +1,3 @@
+{"level":"info","message":"** No persistent storage method specified! Data may be lost when process shuts down.","timestamp":"2016-06-02T18:21:33.474Z"}
+{"level":"info","message":"** Setting up custom handlers for processing Slack messages","timestamp":"2016-06-02T18:21:33.488Z"}
+{"level":"info","message":"** API CALL: https://slack.com/api/rtm.start","timestamp":"2016-06-02T18:21:33.491Z"}
